@@ -1,3 +1,4 @@
+
 # Google Scholar BibTeX Data Collection Automation [EN]
 
 This project automates the process of collecting BibTeX entries for articles cited by academics when writing papers. It searches the Google Scholar database and formats the results according to the BibTeX citation style.
@@ -14,22 +15,6 @@ To use this project, follow these steps:
 
 ---
 
-# Google Scholar BibTeX Veri Toplama Otomasyonu [TR]
-
-Bu proje, akademisyenlerin makale yazarken referans aldıkları diğer makalelerin BibTeX verilerini otomatik olarak toplar. Google Scholar veritabanı üzerinde arama yaparak, sonuçları BibTeX formatında düzenler.
-
-## Nasıl Kullanılır?
-
-Projeyi kullanmak için şu adımları izleyin:
-
-1. **Projeyi bilgisayarınıza indirin**.
-2. `ArticlesTitles.txt` dosyasını açın ve her satıra **bir makale başlığı** yazarak BibTeX verilerinin toplanacağı başlıkları girin.
-3. **Projenin Python kodunu çalıştırın**. Tarayıcı otomatik olarak açılacaktır.
-4. **Önemli**: Tarayıcıda işlem bitene kadar herhangi bir şeye tıklamayın.
-5. İşlem tamamlandığında, `Results.txt` adında bir dosya oluşturulacak ve BibTeX verileri bu dosya içinde listelenmiş olacaktır.
-
----
-
 ## Features
 
 - Automatically collects BibTeX entries from Google Scholar based on article titles.
@@ -41,7 +26,7 @@ Projeyi kullanmak için şu adımları izleyin:
 ## Requirements
 
 - Python 3.6 or higher
-- Required Python packages: `requests`, `beautifulsoup4`, etc. (These can be installed using `pip`).
+- Required Python packages: `selenium`, `time`, etc. (These can be installed using `pip`).
 
 ---
 
@@ -49,15 +34,15 @@ Projeyi kullanmak için şu adımları izleyin:
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/your-repository.git
+    git clone https://github.com/cihanayindi/GoogleScholarBibTeXAutomation
     ```
 2. Navigate to the project directory:
     ```bash
-    cd your-repository
+    cd GoogleScholarBibTeXAutomation
     ```
-3. Install the required dependencies:
+3. Install the Selenium Library:
     ```bash
-    pip install -r requirements.txt
+    pip install selenium
     ```
 
 ---
@@ -79,7 +64,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions or need assistance, feel free to reach out via [email@example.com](mailto:email@example.com) or open an issue on the [GitHub repository](https://github.com/yourusername/your-repository/issues).
+If you have any questions or need assistance, feel free to reach out via [cihanayindi00@gmail.com](mailto:cihanayindi00@gmail.com) or open an issue on the [GitHub repository](https://github.com/yourusername/your-repository/issues). Also you can reach out via [LinkedIn](https://www.linkedin.com/in/cihanayindi/)
 
 ---
 
@@ -92,7 +77,7 @@ Contributions are welcome! If you’d like to contribute, please fork the reposi
 ## Acknowledgements
 
 - Thanks to [Google Scholar](https://scholar.google.com/) for providing the data.
-- Special thanks to the [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) library for simplifying web scraping.
+- Thanks to Mehmetcan Karademir for the project idea.
 
 ---
 
@@ -101,8 +86,6 @@ Contributions are welcome! If you’d like to contribute, please fork the reposi
 - **File Structure:**
     - `ArticlesTitles.txt`: Contains the article titles for which you want to collect BibTeX entries.
     - `Results.txt`: Contains the collected BibTeX entries after running the script.
-    - `requirements.txt`: Contains a list of Python dependencies.
-
 ---
 
 Feel free to modify the code or expand the project as needed. Happy coding!
