@@ -1,0 +1,110 @@
+
+@article{novoselov2004electric,
+  title={Electric field effect in atomically thin carbon films},
+  author={Novoselov, Kostya S and Geim, Andre K and Morozov, Sergei V and Jiang, De-eng and Zhang, Yanshui and Dubonos, Sergey V and Grigorieva, Irina V and Firsov, Alexandr A},
+  journal={science},
+  volume={306},
+  number={5696},
+  pages={666--669},
+  year={2004},
+  publisher={American Association for the Advancement of Science}
+}
+
+@article{ferrari2015science,
+  title={Science and technology roadmap for graphene, related two-dimensional crystals, and hybrid systems},
+  author={Ferrari, Andrea C and Bonaccorso, Francesco and Fal'Ko, Vladimir and Novoselov, Konstantin S and Roche, Stephan and B{\o}ggild, Peter and Borini, Stefano and Koppens, Frank HL and Palermo, Vincenzo and Pugno, Nicola and others},
+  journal={Nanoscale},
+  volume={7},
+  number={11},
+  pages={4598--4810},
+  year={2015},
+  publisher={Royal Society of Chemistry}
+}
+
+@article{geim2007rise,
+  title={The rise of graphene},
+  author={Geim, Andre K and Novoselov, Konstantin S},
+  journal={Nature materials},
+  volume={6},
+  number={3},
+  pages={183--191},
+  year={2007},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{geim2009graphene,
+  title={Graphene: status and prospects},
+  author={Geim, Andre Konstantin},
+  journal={science},
+  volume={324},
+  number={5934},
+  pages={1530--1534},
+  year={2009},
+  publisher={American Association for the Advancement of Science}
+}
+
+@article{peres2009focus,
+  title={Focus on graphene},
+  author={Peres, NMR and Ribeiro, Ricardo M},
+  journal={New Journal of Physics},
+  volume={11},
+  number={9},
+  pages={095002},
+  year={2009},
+  publisher={IOP Publishing}
+}
+
+@article{giovannetti2008doping,
+  title={Doping graphene with metal contacts},
+  author={Giovannetti, GAKPA and Khomyakov, Petr A and Brocks, Geert and Karpan, VM vd and van den Brink, Jeroen and Kelly, Paul J},
+  journal={Physical review letters},
+  volume={101},
+  number={2},
+  pages={026803},
+  year={2008},
+  publisher={APS}
+}
+
+@article{malko2012competition,
+  title={Competition for graphene: graphynes with direction-dependent dirac cones},
+  author={Malko, Daniel and Neiss, Christian and Vines, Francesc and G{\"o}rling, Andreas},
+  journal={Physical review letters},
+  volume={108},
+  number={8},
+  pages={086804},
+  year={2012},
+  publisher={APS}
+}
+
+@article{li2010architecture,
+  title={Architecture of graphdiyne nanoscale films},
+  author={Li, Guoxing and Li, Yuliang and Liu, Huibiao and Guo, Yanbing and Li, Yongjun and Zhu, Daoben},
+  journal={Chemical Communications},
+  volume={46},
+  number={19},
+  pages={3256--3258},
+  year={2010},
+  publisher={Royal Society of Chemistry}
+}
+
+@article{gong2020progress,
+  title={Progress in energy-related graphyne-based materials: advanced synthesis, functional mechanisms and applications},
+  author={Gong, Yanmei and Shen, Lihua and Kang, Zhaoming and Liu, Kangfei and Du, Qixing and Ye, Daixin and Zhao, Hongbin and Sun, Xueliang Andy and Zhang, Jiujun},
+  journal={Journal of Materials Chemistry A},
+  volume={8},
+  number={41},
+  pages={21408--21433},
+  year={2020},
+  publisher={Royal Society of Chemistry}
+}
+
+@article{liu2022tio2,
+  title={TiO2-supported single-atom catalysts: synthesis, structure, and application},
+  author={Liu, Zailun and Sun, Like and Zhang, Qitao and Teng, Zhenyuan and Sun, Hongli and Su, Chenliang},
+  journal={Chemical Research in Chinese Universities},
+  volume={38},
+  number={5},
+  pages={1123--1138},
+  year={2022},
+  publisher={Springer}
+}

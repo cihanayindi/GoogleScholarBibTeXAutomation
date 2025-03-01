@@ -1,0 +1,10 @@
+Novoselov, K. S., et al. Science 306, 666 (2004).
+Ferrari, A. C., et al. Nanoscale 7, 4598 (2015).
+Geim, A. K., & Novoselov, K. S. Nature Materials 6, 183 (2007).
+Geim, A. K. Science 324, 1530 (2009).
+Peres, N. M. R., & Ribeiro, R. M. New Journal of Physics 11, 095002 (2009).
+Giovannetti, G., et al. Physical Review Letters 101, 026803 (2008).
+Malko, D., et al. Physical Review Letters 108.8 (2012): 086804.
+Li, G., et al. Chemical Communications 46.19 (2010): 3256-3258.
+Gong, Y., et al. Journal of Materials Chemistry A 8.41 (2020): 21408-21433.
+Li, X., et al. Chemical Research in Chinese Universities (2021): 1-19.
