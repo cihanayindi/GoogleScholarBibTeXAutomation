@@ -1,7 +1,7 @@
 
 # Google Scholar BibTeX Data Collection Automation [EN]
 
-This project automates the process of collecting BibTeX entries for articles cited by academics when writing papers. It searches the Google Scholar database and formats the results according to the BibTeX citation style.
+This project automates the process of collecting BibTeX entries for articles cited by academics when writing papers. It searches the Google Scholar database and formats the results according to the BibTeX citation style. This project was written with ChatGPT support.
 
 ## How to Use?
 
