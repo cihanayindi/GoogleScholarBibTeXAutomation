@@ -28,7 +28,7 @@ def google_scholar_search(file_path, output_file):
                 search_box.clear()
                 search_box.send_keys(query)
                 search_box.send_keys(Keys.RETURN)
-                time.sleep(3)
+                time.sleep(8)
 
                 # Get first result
                 first_result = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "h3.gs_rt a")))
@@ -36,12 +36,12 @@ def google_scholar_search(file_path, output_file):
                 # Press the "Quote" button
                 cite_button = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "a.gs_or_cit")))
                 cite_button.click()
-                time.sleep(2)
+                time.sleep(4)
 
                 # Click the "BibTeX" button
                 bibtex_button = wait.until(EC.presence_of_element_located((By.LINK_TEXT, "BibTeX")))
                 bibtex_button.click()
-                time.sleep(2)
+                time.sleep(4)
 
                 # Get BibTeX content
                 bibtex_content = wait.until(EC.presence_of_element_located((By.TAG_NAME, "pre"))).text
@@ -49,10 +49,10 @@ def google_scholar_search(file_path, output_file):
                 
                 # Back (to Google Scholar results)
                 driver.back()
-                time.sleep(2)
+                time.sleep(4)
                 # Close the opened pop-up
                 driver.back()
-                time.sleep(2)
+                time.sleep(4)
 
             except Exception as e:
                 output.write(f"Hata oluştu ({query}): {e}\n")
@@ -61,4 +61,4 @@ def google_scholar_search(file_path, output_file):
     driver.quit()
 
 # Write txt names here for use
-google_scholar_search("ArticleTitles.txt", "Results.txt")
+google_scholar_search("GoogleScholarBibTeXAutomation\ArticleTitles.txt", "Results.txt")
