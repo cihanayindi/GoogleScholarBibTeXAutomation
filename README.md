@@ -77,7 +77,7 @@ Contributions are welcome! If you’d like to contribute, please fork the reposi
 ## Acknowledgements
 
 - Thanks to [Google Scholar](https://scholar.google.com/) for providing the data.
-- Thanks to [Mehmetcan Karademir]([https://www.linkedin.com/in/cihanayindi/](https://www.linkedin.com/in/mehmetcankarademir/) for the project idea.
+- Thanks to [Mehmetcan Karademir](https://www.linkedin.com/in/mehmetcankarademir/) for the project idea.
 
 ---
 
