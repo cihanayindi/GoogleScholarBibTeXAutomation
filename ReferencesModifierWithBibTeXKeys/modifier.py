@@ -29,4 +29,4 @@ def modifier(input_file_path, keys_path, output_path):
         file.write(updated_text)
     
 
-modifier("inputText.txt","outputForKeys.txt","outputText.txt")
+modifier("GoogleScholarBibTeXAutomation\ReferencesModifierWithBibTeXKeys\inputText.txt","GoogleScholarBibTeXAutomation\ReferencesModifierWithBibTeXKeys\outputForKeys.txt","GoogleScholarBibTeXAutomation\ReferencesModifierWithBibTeXKeys\outputText.txt")
