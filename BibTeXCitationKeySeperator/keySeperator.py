@@ -16,8 +16,8 @@ def keySeperator(input_file_path):
         match = re.search(r"{(.*?),", bibtex)  # Gets the first value in the first curly bracket
         if match:
             keys.append(match.group(1))  # Add to first object to keys list
-    with open("outputForKeys.txt", "w", encoding="utf-8") as output:
+    with open("GoogleScholarBibTeXAutomation\BibTeXCitationKeySeperator\outputForKeys.txt", "w", encoding="utf-8") as output:
         for key in keys:
             output.write(f"{key}\n")
 
-keySeperator("inputBibTeX.txt")
+keySeperator("GoogleScholarBibTeXAutomation\BibTeXCitationKeySeperator\inputBibTeX.txt")
